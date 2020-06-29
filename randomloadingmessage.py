@@ -1,6 +1,6 @@
 # Created by Nathan R (Mosrod)
 # CREDIT TO https://github.com/1egoman/funnies/blob/master/src/funnies.js
-
+# Also changed.
 from random import *
 
 x = 1
