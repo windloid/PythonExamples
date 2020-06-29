@@ -1,6 +1,6 @@
 from itertools import product
 
-# comment added.
+# comment a added file. newly, really?
 def findPassword(chars, function, show=50, format_="%s"):
 
     password = None

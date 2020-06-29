@@ -1,7 +1,7 @@
 {
-    "remotePath": "/home/pi/PythonExamples",
-    "host": "192.168.0.126",
-    "username": "pi",
+    "remotePath": "/home/trevor/PythonExamples/",
+    "host": "192.168.0.115", 
+    "username": "trevor",
     "password": "chic7782",
     "port": 22,
     "secure": false,
@@ -22,6 +22,6 @@
         "extensionsToInclude": [
             ""
         ],
-        "path": ""
+        "path": "" 
     }
 }
