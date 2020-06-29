@@ -1,6 +1,6 @@
 from itertools import product
 
-
+# comment added.
 def findPassword(chars, function, show=50, format_="%s"):
 
     password = None
